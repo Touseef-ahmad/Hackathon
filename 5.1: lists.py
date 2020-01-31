@@ -1,0 +1,1 @@
+# TODO list operations in python like ,slicing joining etc. chapter 5 EPI
