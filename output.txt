@@ -1,0 +1,8 @@
+Case: 1
+Dothraki 2
+Unsullied 1
+
+Case: 2
+Dothraki 3
+Unsullied 1
+
